@@ -1,0 +1,10 @@
+hibernate:
+  show_sql=true
+  dialect = org.hibernate.dialect.PostgreSQL95Dialect
+  current_session_context_class=thread
+
+  connection:
+    driver_class = org.postgresql.Driver
+    url = jdbc:postgresql://localhost:5432/postgres?currentSchema=products
+    username = postgres
+    password = 14881488Qq

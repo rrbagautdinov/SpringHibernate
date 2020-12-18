@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map>
+          <unit-entry name="configs:crud:hibernate.cfg.xml" value="d9ff9df3-f32b-4693-8391-912d7bccfcd4" />
+          <unit-entry name="configs:hibernate.cfg.xml" value="d9ff9df3-f32b-4693-8391-912d7bccfcd4" />
+          <unit-entry name="configs:oracle:hibernate.cfg.xml" />
+        </datasource-map>
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/main/resources/configs/crud/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/main/resources/configs/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/main/resources/configs/oracle/hibernate.cfg.xml" />
+      </configuration>
+    </facet>
+  </component>
+</module>
